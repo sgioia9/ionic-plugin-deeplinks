@@ -1,5 +1,7 @@
 # Community Maintained
 
+NOTE: Fixes https://github.com/ionic-team/ionic-plugin-deeplinks/issues/212
+
 This plugin is being maintained by the Ionic community. Interested in helping? Message `max` on ionic worldwide slack.
 
 Another great solution for deep links for Ionic is the Branch Metrics plugin: [https://github.com/BranchMetrics/cordova-ionic-phonegap-branch-deep-linking](https://github.com/BranchMetrics/cordova-ionic-phonegap-branch-deep-linking)
